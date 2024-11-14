@@ -27,15 +27,6 @@ Welcome to my GitHub profile! I'm a passionate Python programmer who loves codin
 ![French](https://img.shields.io/badge/French-Native-1f425f?style=flat-square)
 ![English](https://img.shields.io/badge/English-Fluent-1f425f?style=flat-square)
 
-## 📊 Weekly Development Breakdown
-
-<!--START_SECTION:waka-->
-```text
-Python       20 hrs  ██████████████████░░░░░░   80%
-HTML          5 hrs  █████░░░░░░░░░░░░░░░░░░░   20%
-```
-<!--END_SECTION:waka-->
-
 ## 📈 Visitor Count
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=YassiGame&color=blue&style=flat-square)
